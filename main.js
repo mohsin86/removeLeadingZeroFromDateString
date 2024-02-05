@@ -14,7 +14,7 @@ function removeLeadingZeroFromDate(string){
     if (typeof expected == 'object' && expected != null) {
         let dateString = Object.values(expected)[0];
         let removeLeadingZero = dateString.replace(/(^|-|\/)0+/g, "$1");
-        let result = string.replace(date, removeLeadingZero);
+        let result = string.replace(dateString, removeLeadingZero);
         return result;
     }else return string;
 }
