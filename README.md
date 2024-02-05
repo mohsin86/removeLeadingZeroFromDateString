@@ -1,4 +1,4 @@
-# removeLeadingZeroFromString
+# Remove Leading Zero From a Date String
 Remove leading zeros from a string in JavaScript using regular expressions
 ## Synopsis
 - worked for both format dd/mm/yyyy or  dd-mm-yyyy
