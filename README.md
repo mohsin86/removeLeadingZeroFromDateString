@@ -2,10 +2,9 @@
 Remove leading zeros from a string in JavaScript using regular expressions
 ## Synopsis
 - worked for both format dd/mm/yyyy or  dd-mm-yyyy
+  
 Usage
 -----
-Basic form:
-
 ```ruby
  // Format dd/mm/yyyy
 console.log(removeLeadingZeroFromDate("New York, NY 07/08/2025"));
